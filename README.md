@@ -1,2 +1,2 @@
 # Dixon_MNIST_Project
-A project using neural networks to classify hand written numbers from the MNIST dataset. 
+A project using neural networks to classify hand written numbers from the MNIST dataset. Completed during my Master's program at Stevens Institute of Technology, the final project for the course "Deep Learning" entailed preparing the data, building an auto encoder, tuning hyper parameters, building the classification network and visualizing some results. Test accuracy of roughly 94.8% was achieved, showing how robust these kinds of models can be with sufficient training. 
